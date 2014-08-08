@@ -4,10 +4,13 @@
     <string name="app_name">IClock</string>
     <string name="action_settings">Settings</string>
 
-    <!-- main activity -->
+    <!-- main tab -->
     <string name="world_clock">World Clock</string>
     <string name="alarm">Alarm</string>
     <string name="stop_watch">Stop watch</string>
     <string name="timer">Timer</string>
+
+    <!-- title -->
+    <string name="edit_btn">edit</string>
 
 </resources>
